@@ -2,7 +2,7 @@
 src="ola.png" /></a></p>
 <div align="center">
 
-_Estou no 1° semestre da base comum do Eixo de Computação e pretendo escolher o curso de Engenharia da Computação._
+_Estou no 2° semestre da base comum do Eixo de Computação e pretendo escolher o curso de Engenharia da Computação._
 
 <br>
 
